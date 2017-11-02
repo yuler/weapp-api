@@ -1,0 +1,14 @@
+{
+  "name": "youhaodongxi-webapp-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "fastify": "^0.31.0",
+    "mongoose": "^4.12.6",
+    "r2": "^2.0.0"
+  }
+}
